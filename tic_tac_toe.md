@@ -22,9 +22,9 @@ A 2-player game (Player ❌ vs Player ⭕) that:
 
 ## 🧩 Project rules (to keep it clean)
 
-✅ Use **functions** for almost everything
-✅ Use a **list** to store the board
-✅ Keep your code readable
+✅ Use **functions** for almost everything  
+✅ Use a **list** to store the board  
+✅ Keep your code readable  
 
 🚫 No giant 200-line spaghetti script
 
