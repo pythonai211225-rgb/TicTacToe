@@ -108,26 +108,6 @@ Switch between players
 
 Runs the whole game
 
-## 🎭 Fun personality ideas (pick one theme)
-
-Choose one theme to make the project feel like a game show
-
-### Theme A: Space Battle 🚀
-
-* ❌ = Alien
-* ⭕ = Astronaut
-* Messages like: “Laser locked… choose a sector (1–9)!”
-
-### Theme B: Wizard Duel 🧙
-
-* ❌ = Fire spell
-* ⭕ = Ice spell
-* “Cast your spell on tile 7!”
-
-### Theme C: Meme Arena 🐸
-
-* “Nope, that square is taken 😤 try again”
-
 ## 🧪 Mini tests (manual) ✅
 
 Before you declare victory, try these:
@@ -144,38 +124,18 @@ Pick 1–3 if you want extra fun
 
 ### ⭐ Easy
 
-* Add a **welcome screen** and emoji banner
-* Add a **play again** loop
+* Add reset option in case the user want to quit the game and start a new game
 
 ### ⭐⭐ Medium
 
 * Add a **scoreboard**: X wins, O wins, ties
-* Randomly choose who starts
+* Add a computer player which plays random moves
 
 ### ⭐⭐⭐ Hard
 
-* Add a **computer player** (simple): pick a random free spot
-* Smarter AI (extra): try to win or block
+* Generate a second file with pgame and add graphics, use generated code **only for the graphics** and implement your code inside 
 
-## 🧠 Hints (no full solution, just smart nudges)
-
-* Winning combos are fixed:
-
-  * Rows: (1,2,3), (4,5,6), (7,8,9)
-  * Cols: (1,4,7), (2,5,8), (3,6,9)
-  * Diags: (1,5,9), (3,5,7)
-* A list of tuples for combos makes your `check_winner` super clean
-
-## 🧾 What to submit
-
-* `tic_tac_toe.py`
-* A short README comment at the top:
-
-  * your name
-  * what theme you chose
-  * which bonus challenges you did
-
-## 🥳 Motivation fuel
+## 🥳 skill fuel
 
 **You’re not just coding a game** — you’re practicing how real projects are built:
 ✅ design → ✅ functions → ✅ testing → ✅ polish
@@ -184,16 +144,10 @@ When it works, you’ll feel that "I MADE THIS" moment 😄
 
 ## 🧡 Tiny icon corner
 
-🎯 Input validation = you becoming a pro
-🧱 Functions = clean code superpower
-🏆 Winner check = logic mastery
-✨ Polish = your signature style
-
-## 🚀 Bonus (Optional)
-
-* add reset button
-* add a computer player which plays aandom moves
-* Generate a second file with pgame and add graphics, use generated code **only for the graphics** and implement your code inside 
+🎯 Input validation = you becoming a pro  
+🧱 Functions = clean code superpower  
+🏆 Winner check = logic mastery  
+✨ Polish = your signature style  
 
 **Submission email:** [pythonai211225+pythontictactoe@gmail.com](mailto:pythonai211225+pythontictactoe@gmail.com)
 
