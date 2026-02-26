@@ -1,4 +1,4 @@
-<img src="tic_tac_toe.jpg" style-"width:50%" />
+<img src="tic_tac_toe.jpg" style="width:50%" />
 
 # 🎮 Tic-Tac-Toe Project
 
