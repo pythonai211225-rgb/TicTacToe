@@ -56,7 +56,7 @@ A 2-player game (Player ❌ vs Player ⭕) that:
 * Add fun messages
 * Optional: scoreboard
 
-## 🧰 Function checklist (required)
+## 🧰 Function checklist - suggestions
 
 Use these function names (recommended) and build one at a time
 
