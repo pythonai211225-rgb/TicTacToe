@@ -1,6 +1,6 @@
-<img src="tic_tac_toe.jpg" style="width:50%" />
-
 # 🎮 Tic-Tac-Toe Project
+
+<img src="tic_tac_toe.jpg" style="width:50%" />
 
 > Build a classic game, level up your coding skills, and end with something you can actually *play* 😄
 
